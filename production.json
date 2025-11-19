@@ -2,7 +2,7 @@
   "api_url": "https://app-backend.antcrm.co/api/v1/",
   "config_version": "1",
   "ios": {
-    "latest_version": "1.1.0",
+    "latest_version": "1.1.1",
     "min_supported_version": "1.0.1",
     "force_update": false,
     "update_url": "https://apps.apple.com/in/app/the-ant-crm/id6749476336",
@@ -13,7 +13,7 @@
     ]
   },
   "android": {
-    "latest_version": "1.1.0",
+    "latest_version": "1.1.1",
     "min_supported_version": "1.0.1",
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.workaxis.antcrm",
