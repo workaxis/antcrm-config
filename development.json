@@ -24,5 +24,8 @@
       "UI refinements and bug fixes"
     ],
     "google_client_id":"534136729661-573oejeokf15a6f9oj1b40q3h4k5j7b6.apps.googleusercontent.com"
+  },
+  "web":{
+    "google_client_id":"534136729661-v7cstc7l8e5kiir09d9af9pnll3qjt4n.apps.googleusercontent.com"
   }
 }
