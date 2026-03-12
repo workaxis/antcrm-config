@@ -10,7 +10,8 @@
       "Improved chat experience",
       "Faster search and smoother scrolling",
       "UI refinements and bug fixes"
-    ]
+    ],
+    "google_client_id":"534136729661-s960am26j43n3h7o4mn3oln4imdjrtc4.apps.googleusercontent.com"
   },
   "android": {
     "latest_version": "1.1.1",
@@ -21,6 +22,7 @@
       "Improved chat experience",
       "Faster search and smoother scrolling",
       "UI refinements and bug fixes"
-    ]
+    ],
+    "google_client_id":"534136729661-573oejeokf15a6f9oj1b40q3h4k5j7b6.apps.googleusercontent.com"
   }
 }
