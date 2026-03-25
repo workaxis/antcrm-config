@@ -11,6 +11,10 @@
     "appleTouchIcon": "https://ik.imagekit.io/kittydev/Workaxis/Logo/w_dark_TWqhf3EFi.svg",
     "primaryColor": "#2f55d4",
     "primaryDarkColor": "#1f3b99",
+    "ui": {
+      "showCopyright": false,
+      "showPricingSeeAllFeatures": false
+    },
     "routeConfig": {
       "baseHome": "private.calendar",
       "private": {
@@ -79,6 +83,10 @@
     "appleTouchIcon": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Favicon_2025.svg",
     "primaryColor": "#22232f",
     "primaryDarkColor": "#121218",
+    "ui": {
+      "showCopyright": false,
+      "showPricingSeeAllFeatures": false
+    },
     "routeConfig": {
       "baseHome": "private.calendar",
       "private": {
@@ -147,6 +155,10 @@
     "appleTouchIcon": "/static/images/icons/apple-icon-180x180.png",
     "primaryColor": "#22232f",
     "primaryDarkColor": "#121218",
+    "ui": {
+      "showCopyright": false,
+      "showPricingSeeAllFeatures": false
+    },
     "routeConfig": {
       "baseHome": "private.home",
       "private": {
